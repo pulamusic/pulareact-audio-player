@@ -1,0 +1,19 @@
+/* ======== audio player ======== */
+
+.AudioPlayer {
+  @include flex-column;
+  margin: $sp-1;
+  padding: $sp-4;
+  background-color: $gradient-bg-color-2;
+  font-size: $font-size-4;
+  border: $border;
+  border-radius: $border-radius;
+  box-shadow: 0.5em 0.5em 0.5em rgba(79, 76, 76, 0.8);
+  h2 {
+    font-size: $font-size-6;
+    font-weight: $font-weight-3;
+    #treble-clef-icon {
+      font-size: $font-size-6;
+    }
+  }
+}

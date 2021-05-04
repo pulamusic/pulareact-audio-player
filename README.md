@@ -1,3 +1,23 @@
+> Jim Carroll |
+> 05/04/2021 |
+> [GitHub Profile](https://github.com/pulamusic)
+
+---
+
+# Creating a custom audio player with React Player
+
+I'm just messing around with the code a bit. I would like to be able to feature my own customized audio player on my portfolio site - I am after all bot a musician and a budding web developer.
+
+#### Notes to self
+* [audio url inputs I may use](https://www.npmjs.com/package/react-player#config-prop): YouTube, SoundCloud, Vimeo, file, Facebook
+* controls(?): play, pause, stop, volume, loop, pan
+* layout: wave form window?, controls, metadata
+* ?
+
+---
+
+> Here is the original Create-React-App documentation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

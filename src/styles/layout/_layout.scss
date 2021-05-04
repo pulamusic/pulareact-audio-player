@@ -42,6 +42,14 @@
 /* ======== Footer ======== */
 
 .Footer {
+  @include flex-column-center;
   text-align: center;
-  padding: $sp-6 0;
+  padding: $sp-4 0;
+  .social-div {
+    @include flex-row-center;
+    margin: 0.5em auto;
+    .soundcloud-icon {
+      @include inline-flex-center;
+    }
+  }
 }
